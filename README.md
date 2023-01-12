@@ -7,7 +7,7 @@
 <p align="center">
 <b><a href="mailto:root[at]fzm.ooo">Email</a></b>
 &mdash;
-<b><a href="https://f1zm0.dev">Blog</a></b>
+<b><a href="#soon!">Blog</a></b>
 &mdash; 
 <b><a href="https://twitter.com/f1zm0">Twitter</a></b>
 &mdash; 
